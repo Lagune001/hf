@@ -1,7 +1,7 @@
 {
 	"LastUpdate": "2025-08-15 15:35:50Z",
 	"Application": [{
-		"Name": "Microsoft SQL Server Management Studio - 18.2",
+		"Name": "Microsoft SQL Server Management Studio - 17.9.1",
 		"Version": "*",
 		"Type": "programs",
 		"SilentArg": "/uninstall /quiet"
