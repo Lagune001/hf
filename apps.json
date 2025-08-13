@@ -11,10 +11,10 @@
 		"Type": "programs",
 		"SilentArg": "/s"
 	},{
-		"Name": "McAfee",
+		"Name": "iManage Drive",
 		"Version": "*",
 		"Type": "programs",
-		"SilentArg": "/uninstall /s"
+		"SilentArg": "-s"
 	}
 ]
 }
