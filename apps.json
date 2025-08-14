@@ -11,6 +11,11 @@
 		"Type": "programs",
 		"SilentArg": "/s"
 	},{
+		"Name": "Microsoft SQL Server Management Studio - 20.1",
+		"Version": "*",
+		"Type": "programs",
+		"SilentArg": "/uninstall /quiet"
+	},{
 		"Name": "iManage Drive",
 		"Version": "*",
 		"Type": "programs",
