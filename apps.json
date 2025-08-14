@@ -6,7 +6,7 @@
 		"Type": "programs",
 		"SilentArg": "/uninstall /quiet"
 	},{
-		"Name": "WebAdvisor by McAfee",
+		"Name": "WinRAR 7.13 (64-bit)",
 		"Version": "*",
 		"Type": "programs",
 		"SilentArg": "/s"
