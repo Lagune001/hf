@@ -15,11 +15,6 @@
 		"Version": "*",
 		"Type": "programs",
 		"SilentArg": "/uninstall /quiet"
-	},{
-		"Name": "iManage Drive",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "-s"
 	}
 ]
 }
