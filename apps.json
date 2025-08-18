@@ -11,6 +11,11 @@
 		"Type": "programs",
 		"SilentArg": "/s"
 	},{
+		"Name": "WinRAR 6.11 (64-bit)",
+		"Version": "*",
+		"Type": "programs",
+		"SilentArg": "/s"
+	},{
 		"Name": "Microsoft SQL Server Management Studio - 20.1",
 		"Version": "*",
 		"Type": "programs",
